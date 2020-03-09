@@ -1,7 +1,6 @@
 #!/bin/bash
 
 
-
 TOKEN="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkaXNjb3JkX3VzZXJfaWQiOiI0MTkxNTg1NTE0NjY5OTk4MjEiLCJyZWFzb24iOiJwcm9iYW5kby10b2tlbi1icmF3bCIsInZlcnNpb24iOjEsImlhdCI6MTU4Mzc4MDQ2OH0.wxAkKDOyGmSWGKCVeqayq-CBs_BfZMzh-qAs18tHHFU"
 LINK="https://api.starlist.pro/v1/player?tag=$1"
 
